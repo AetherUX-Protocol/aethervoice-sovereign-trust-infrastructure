@@ -1,0 +1,10 @@
+Background: #0f1117
+Card Background: #161b22
+Border: #2a2f3a
+
+Primary Blue: #3b82f6
+Warning Amber: #f59e0b
+Success Green: #10b981
+
+Primary Text: #f5f5f5
+Muted Text: #9aa4b2
