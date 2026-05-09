@@ -1,1 +1,24 @@
-
+{
+  "name": "aethervoice",
+  "version": "0.1.0",
+  "description": "Sovereign Trust Identity Infrastructure for High-Risk Commerce",
+  "main": "frontend/app.js",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "dev": "python -m http.server 3000"
+  },
+  "keywords": [
+    "solana",
+    "sns",
+    "qvac",
+    "umbra",
+    "ai",
+    "identity",
+    "trust",
+    "stablecoins",
+    "privacy",
+    "hackathon"
+  ],
+  "author": "AetherVoice",
+  "license": "MIT"
+}
