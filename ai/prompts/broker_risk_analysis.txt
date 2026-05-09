@@ -1,1 +1,13 @@
+Evaluate the broker communication for:
 
+- inconsistent transaction behavior
+- payment diversion risks
+- authority impersonation
+- suspicious urgency patterns
+- authenticity confidence
+
+Generate:
+- trust indicators
+- risk score
+- recommendation:
+  Proceed / Caution / Stop
