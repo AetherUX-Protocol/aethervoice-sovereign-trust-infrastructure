@@ -1,1 +1,14 @@
+fastapi
+uvicorn
+pydantic
 
+numpy
+pandas
+
+python-dotenv
+
+requests
+
+opencv-python
+
+scikit-learn
