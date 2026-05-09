@@ -1,1 +1,12 @@
+Analyze the uploaded invoice for:
 
+- inconsistent payment instructions
+- urgency manipulation
+- suspicious wording
+- unusual settlement behavior
+- authenticity indicators
+
+Generate:
+- risk observations
+- trust confidence
+- transaction recommendation
