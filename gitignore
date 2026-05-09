@@ -1,1 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Environment
+.env
+venv/
+.env.local
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# Build
+dist/
+build/
+
+# Temporary Files
+*.tmp
+*.temp
